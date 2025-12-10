@@ -26,5 +26,5 @@ node server.js
 ```
 ## Скриншоты
 ![Главная страница](screenshots/main.png)
-![Добавление товара](screenshots/DOBAVLENIE.png)
-![Пустой каталог после удаления всех товаров](screenshots/udalenie.png)
+![Добавление товара](screenshots/DOBAVLENIE.PNG)
+![Пустой каталог после удаления всех товаров](screenshots/udalenie.PNG)
