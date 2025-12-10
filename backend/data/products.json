@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "MacBook Air M2",
+    "price": 119990,
+    "description": "13.6\", Apple M2, 8ГБ RAM"
+  },
+  {
+    "id": 2,
+    "name": "iPhone 15",
+    "price": 89990,
+    "description": "6.1\", A16 Bionic, 128ГБ"
+  },
+  {
+    "id": 3,
+    "name": "AirPods Pro 2",
+    "price": 24990,
+    "description": "Активное шумоподавление"
+  },
+  {
+    "id": 4,
+    "name": "Samsung Galaxy S24",
+    "price": 99990,
+    "description": "6.2\", Exynos 2400, 256ГБ"
+  }
+]

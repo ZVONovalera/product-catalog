@@ -1,0 +1,5 @@
+{
+  "GET /api/products": "/products",
+  "GET /api/products/:id": "/products/:id",
+  "POST /api/products": "/products"
+}
