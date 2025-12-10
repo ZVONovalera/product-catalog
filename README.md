@@ -22,6 +22,8 @@ npm run build
 cd ../backend
 node server.js
 
+
+```
 ## Скриншоты
 ![Главная страница](screenshots/main.PNG)
 ![Добавление товара](screenshots/DOBAVLENIE.png)
